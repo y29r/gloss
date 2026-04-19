@@ -1,0 +1,11 @@
+{
+  "name": "Gloss",
+  "tree": {
+    "$className": "DataModel",
+    "ReplicatedStorage": {
+      "Gloss": {
+        "$path": "Gloss"
+      }
+    }
+  }
+}
